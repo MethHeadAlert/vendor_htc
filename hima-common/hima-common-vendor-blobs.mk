@@ -340,11 +340,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/lib/hw/camera.vendor.msm8994.so:system/lib/hw/camera.vendor.msm8994.so \
     vendor/htc/hima-common/proprietary/lib/libawb_calibration.so:system/lib/libawb_calibration.so \
     vendor/htc/hima-common/proprietary/lib/libBeautyChat.so:system/lib/libBeautyChat.so \
-    vendor/htc/hima-common/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
-    vendor/htc/hima-common/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/htc/hima-common/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
     vendor/htc/hima-common/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
-    vendor/htc/hima-common/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/htc/hima-common/proprietary/lib/libFaceRetrieve.so:system/lib/libFaceRetrieve.so \
     vendor/htc/hima-common/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/htc/hima-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
@@ -824,7 +821,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
     vendor/htc/hima-common/proprietary/vendor/lib/libqomx_jpegenc_pipe.so:system/vendor/lib/libqomx_jpegenc_pipe.so \
     vendor/htc/hima-common/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
-    vendor/htc/hima-common/proprietary/bin/mediaserver:system/bin/mediaserver \
     vendor/htc/hima-common/proprietary/etc/firmware/dxcprm.b00:system/etc/firmware/dxcprm.b00 \
     vendor/htc/hima-common/proprietary/etc/firmware/dxcprm.b01:system/etc/firmware/dxcprm.b01 \
     vendor/htc/hima-common/proprietary/etc/firmware/dxcprm.b02:system/etc/firmware/dxcprm.b02 \
