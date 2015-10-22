@@ -207,7 +207,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/htc/hima-common/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/htc/hima-common/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
-    vendor/htc/hima-common/proprietary/vendor/lib/libEGL_adreno.so:system/vendor/lib/libEGL_adreno.so \
     vendor/htc/hima-common/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/htc/hima-common/proprietary/vendor/lib/libllvm-glnext.so:system/vendor/lib/libllvm-glnext.so \
     vendor/htc/hima-common/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
@@ -228,7 +227,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/vendor/lib64/libc2d30-a3xx.so:system/vendor/lib64/libc2d30-a3xx.so \
     vendor/htc/hima-common/proprietary/vendor/lib64/libc2d30-a4xx.so:system/vendor/lib64/libc2d30-a4xx.so \
     vendor/htc/hima-common/proprietary/vendor/lib64/libCB.so:system/vendor/lib64/libCB.so \
-    vendor/htc/hima-common/proprietary/vendor/lib64/libEGL_adreno.so:system/vendor/lib64/libEGL_adreno.so \
     vendor/htc/hima-common/proprietary/vendor/lib64/libgsl.so:system/vendor/lib64/libgsl.so \
     vendor/htc/hima-common/proprietary/vendor/lib64/libllvm-glnext.so:system/vendor/lib64/libllvm-glnext.so \
     vendor/htc/hima-common/proprietary/vendor/lib64/libllvm-qcom.so:system/vendor/lib64/libllvm-qcom.so \
