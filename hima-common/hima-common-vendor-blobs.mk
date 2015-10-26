@@ -29,11 +29,9 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
     vendor/htc/hima-common/proprietary/lib64/libhtcmfg.so:system/lib64/libhtcmfg.so \
     vendor/htc/hima-common/proprietary/lib64/libhtc_rilhook.so:system/lib64/libhtc_rilhook.so \
-    vendor/htc/hima-common/proprietary/lib64/libril.so:system/lib64/libril.so \
     vendor/htc/hima-common/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/htc/hima-common/proprietary/lib/libhtcmfg.so:system/lib/libhtcmfg.so \
     vendor/htc/hima-common/proprietary/lib/libhtc_rilhook.so:system/lib/libhtc_rilhook.so \
-    vendor/htc/hima-common/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/htc/hima-common/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/htc/hima-common/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/htc/hima-common/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
